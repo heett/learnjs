@@ -7,3 +7,5 @@ node_modules
 # Временные файлы
 *.tmp
 *`
+/dist
+/public/dist
